@@ -17,3 +17,4 @@ Visual Studio Code + Mysql + Xampp
 
 # 실행결과
 ![image](https://user-images.githubusercontent.com/89557740/170019898-c62b1fa9-ecaf-4541-981c-dbcef536ceca.png)
+![image](https://user-images.githubusercontent.com/89557740/170020629-8a1813e9-0a94-44a6-a655-87b0702de4bc.png)
