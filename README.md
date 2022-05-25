@@ -1,7 +1,5 @@
 # Project-Simulation
 
-프로젝트 시뮬레이션 프로그램
-
 Visual Studio Code + Mysql + Xampp
 
 데이터베이스기반 응용프로그램을 이용하여 현재까지 카운트 된 횟수를 보여지도록 구현합니다.
